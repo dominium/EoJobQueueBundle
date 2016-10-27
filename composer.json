@@ -18,7 +18,7 @@
         "symfony/framework-bundle": ">=2.1",
         "doctrine/common": ">=2.3",
         "jms/di-extra-bundle": ">=1.1",
-        "doctrine/mongodb-odm-bundle": ">=2.1"
+        "dominium/mongodb-odm-bundle": "dev-master"
     },
     "require-dev": {
         "doctrine/doctrine-fixtures-bundle": "*",
