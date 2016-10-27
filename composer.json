@@ -1,5 +1,5 @@
 {
-    "name":         "dominium/job-queue-bundle",
+    "name":         "dominium/mjob-queue-bundle",
     "description":  "Allows to schedule Symfony2 console commands as jobs.",
     "keywords":     ["job","queue"],
     "type":         "symfony-bundle",
